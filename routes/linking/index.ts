@@ -1,5 +1,3 @@
-
-  export const linking = {
-    prefixes: ['myapp://Home'],
-
-  };
+export const linking = {
+  prefixes: ['myapp://Home'],
+};
